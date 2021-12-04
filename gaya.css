@@ -1,0 +1,57 @@
+.cuy{
+  max-height: 100vh;
+  background:no-repeat scroll center scroll;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.cuy::before{
+  content:"";
+  display: block;
+  position:absolute;
+  top:0;left:0;right:0;bottom:0;
+  background:#000;
+  opacity: 0.5;
+}
+.carousel-caption h5{
+  margin-bottom: 50px;
+  font-size:70px;
+  font-weight: 300;
+}
+.carousel-caption p{
+  margin-bottom:100px;
+  font-size: 18px;
+  top:2rem,
+}
+
+
+
+.bali{
+  font-family: verdana, arial, helvetica, sans-serif;
+  border-bottom: 1px solid ;
+}
+.home{ 
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+.about{ 
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+.galery{
+  font-family: verdana, arial, helvetica, sans-serif;
+
+}
+.contact{  
+   font-family: verdana, arial, helvetica, sans-serif;
+}
+
+.galery{
+  padding: 80px 0;
+}
+.galery img{
+  max-width: 100%;
+}
+
+.kaki{
+  max-width: 100%;
+  height:;
+}
